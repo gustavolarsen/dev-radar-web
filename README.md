@@ -24,4 +24,4 @@ Este repositório em específico tem apenas o código do front-end WEB. Para ace
 
 ## Licença
 
-Estr projeto está sob a licença MIT - acesse [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+Estr projeto está sob a licença MIT - acesse [LICENSE](https://github.com/gustavolarsen/dev-radar-api/blob/main/LICENSE) para mais detalhes.
